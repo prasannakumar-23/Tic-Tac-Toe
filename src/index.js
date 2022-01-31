@@ -38,10 +38,10 @@ const Board=()=>{
   }
   if(winner){
     if(!flag){
-      setWinn("O")
+      setWinn("O is the winner :)")
     }
     else{
-      setWinn("X")
+      setWinn("X is the winner :)")
     }
   }
   }
